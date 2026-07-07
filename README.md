@@ -1,1 +1,1 @@
-# LSI_Mohak
+# GAN_Accelerator
